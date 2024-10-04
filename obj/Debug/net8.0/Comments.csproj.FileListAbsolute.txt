@@ -1,0 +1,14 @@
+D:\C#\Comments\bin\Debug\net8.0\Comments.exe
+D:\C#\Comments\bin\Debug\net8.0\Comments.deps.json
+D:\C#\Comments\bin\Debug\net8.0\Comments.runtimeconfig.json
+D:\C#\Comments\bin\Debug\net8.0\Comments.dll
+D:\C#\Comments\bin\Debug\net8.0\Comments.pdb
+D:\C#\Comments\obj\Debug\net8.0\Comments.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Comments\obj\Debug\net8.0\Comments.AssemblyInfoInputs.cache
+D:\C#\Comments\obj\Debug\net8.0\Comments.AssemblyInfo.cs
+D:\C#\Comments\obj\Debug\net8.0\Comments.csproj.CoreCompileInputs.cache
+D:\C#\Comments\obj\Debug\net8.0\Comments.dll
+D:\C#\Comments\obj\Debug\net8.0\refint\Comments.dll
+D:\C#\Comments\obj\Debug\net8.0\Comments.pdb
+D:\C#\Comments\obj\Debug\net8.0\Comments.genruntimeconfig.cache
+D:\C#\Comments\obj\Debug\net8.0\ref\Comments.dll
